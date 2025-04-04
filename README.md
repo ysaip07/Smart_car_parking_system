@@ -12,3 +12,11 @@ Parking Slot Management: After a vehicle enters, the Arduino updates the count o
 User Interaction: The 16x2 LCD provides real-time updates to users, including the number of available spaces, a "Parking Full" message when necessary, and instructions or status updates during entry. 
 
 System Reset: The system automatically resets after each car enters, updating the display and preparing the servo motor for the next vehicle, ensuring continuous and efficient parking management.
+
+
+
+
+
+
+
+NOTE:Took Reference from Youtube
